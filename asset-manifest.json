@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/portfolio_react/static/css/main.f6a82970.css",
+    "main.js": "/portfolio_react/static/js/main.0efc29fd.js",
+    "static/media/banner0.jpg": "/portfolio_react/static/media/banner0.74e3dcca7a19430fed53.jpg",
+    "static/media/swift_exchange.png": "/portfolio_react/static/media/swift_exchange.68b7134e334619a38159.png",
+    "static/media/ecommerce_backend.png": "/portfolio_react/static/media/ecommerce_backend.afc7ff8578db41185dd2.png",
+    "static/media/cms_blog.png": "/portfolio_react/static/media/cms_blog.eba123baff77be31bc3a.png",
+    "static/media/next_city.png": "/portfolio_react/static/media/next_city.3fa9a26ace15d00cc9a6.png",
+    "static/media/crashcode.png": "/portfolio_react/static/media/crashcode.64ed9768659ad864b758.png",
+    "static/media/social_media_backend.png": "/portfolio_react/static/media/social_media_backend.247e7180550615fd1cd2.png",
+    "static/media/background.jpg": "/portfolio_react/static/media/background.6e38b9e74494136c4562.jpg",
+    "static/media/weather_dashboard.jpg": "/portfolio_react/static/media/weather_dashboard.93f03f07505c735525e3.jpg",
+    "static/media/employee_tracker.jpg": "/portfolio_react/static/media/employee_tracker.5f9bd23fd9f79b0433c8.jpg",
+    "static/media/readme_generator.jpg": "/portfolio_react/static/media/readme_generator.c1467cc5c8f2859a7a86.jpg",
+    "static/media/daily_scheduler.jpg": "/portfolio_react/static/media/daily_scheduler.f5f5e0bf92b845aa719c.jpg",
+    "static/media/just_another_text_editor.png": "/portfolio_react/static/media/just_another_text_editor.8d37f4e2470696dc572b.png",
+    "static/media/linkedin-icon.png": "/portfolio_react/static/media/linkedin-icon.6ac77341c7a1f1743ba6.png",
+    "static/media/React-icon.png": "/portfolio_react/static/media/React-icon.1d385d14e08b2ed7362a.png",
+    "static/media/mental_math_quiz.jpg": "/portfolio_react/static/media/mental_math_quiz.ec421b2b1fe8cf27ef52.jpg",
+    "static/media/note_taker.jpg": "/portfolio_react/static/media/note_taker.94bfab40221dace3f656.jpg",
+    "static/media/SVG_logo_maker.jpg": "/portfolio_react/static/media/SVG_logo_maker.e2b149738e75c0b9889d.jpg",
+    "static/media/password_generator.jpg": "/portfolio_react/static/media/password_generator.042b6eaa9e65067efd41.jpg",
+    "static/media/GitHub-logo.png": "/portfolio_react/static/media/GitHub-logo.7c8f7736007664c4b0ba.png",
+    "static/media/Facebook-logo.png": "/portfolio_react/static/media/Facebook-logo.866d8d2247aaac78d93b.png",
+    "index.html": "/portfolio_react/index.html",
+    "main.f6a82970.css.map": "/portfolio_react/static/css/main.f6a82970.css.map",
+    "main.0efc29fd.js.map": "/portfolio_react/static/js/main.0efc29fd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6a82970.css",
+    "static/js/main.0efc29fd.js"
+  ]
+}
