@@ -2,7 +2,8 @@
 ## URL
 https://kimmh891223.github.io/portfolio_react/
 ## Screenshot
-![image](https://github.com/kimmh891223/portfolio_react/assets/125617951/6ade1b6c-6ad6-43e2-8194-9f8f424ba1cf)
+![portfolio_react_screenshot](https://github.com/kimmh891223/portfolio_react/assets/125617951/dcba6d90-8007-4a5d-b7c8-cce4c30b00ec)
+
 
 ## About
 - This is a single page frontend portfolio using React
